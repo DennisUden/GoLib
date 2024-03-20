@@ -3,5 +3,5 @@ package GoLib
 import "fmt"
 
 func init() {
-	fmt.PrintLn("[GoLib] initializing ...")
+	fmt.Println("[GoLib] initializing ...")
 }
