@@ -3,6 +3,7 @@ github.com/DennisUden/GoLib
 # Usage #
 
 ## Initialize your module ##
+Substitute "example.com/my-golib-demo" with the name of your project
 ```go mod init example.com/my-golib-demo```
 
 ## Get the GoLib module ##
