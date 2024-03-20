@@ -17,5 +17,5 @@ import (
 )
 
 func main() {
-    fmt.Prinln(GoLib.Round(2.3244231,3))
+    fmt.Prinln(GoLib.Round(a, b)) // a is the number which needs to be rounded and b the number of decimals
 }
