@@ -7,7 +7,7 @@ go mod init example.com/my-golib-demo
 
 Get the GoLib module
 Note that you need to include the v in the version tag.
-go get github.com/DennisUden/GoLib@v.0.1.0
+go get github.com/DennisUden/GoLib@v.0.1.4
 
 package main
 
@@ -17,5 +17,5 @@ import (
 )
 
 func main() {
-    fmt.Prinln(GoLib.Round(2.3244231 float64 ,3 float64))
+    fmt.Prinln(GoLib.Round(2.3244231,3))
 }
