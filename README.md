@@ -8,7 +8,7 @@ Substitute "example.com/my-golib-demo" with the name of your project
 
 ## Get the GoLib module ##
 Note that you need to include the v in the version tag \
-```go get github.com/DennisUden/GoLib@v.0.1.4``` 
+```go get github.com/DennisUden/GoLib@v.0.1.7``` 
 
 ```go
 package main
